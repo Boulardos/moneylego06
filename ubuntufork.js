@@ -18,7 +18,7 @@
 const Web3 = require('web3');
 // const web3 = new Web3('http://localhost:8545');
 // const HDWalletProvider = require('@truffle/hdwallet-provider');
-const privateKey =  "F2E5F7447739E5363A30C81B0F12B4DE719AB04D15304E51D541312F164A7B8D";
+const privateKey =  "F2E5F7447739E5363A30C81B0F12B4DE719AB04D15304E51D54131";
 const privateKey0 = "4f3edf983ac636a65a842ce7c78d9aa706d3b113bce9c46f30d7d21715b23b1d"; // sans 0x
 // const provider = new HDWalletProvider(privateKey0, 'http://localhost:8545');
 // const web3 = new Web3(provider);
