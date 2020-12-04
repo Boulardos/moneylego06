@@ -6,7 +6,8 @@ const Web3 = require('web3');
 const web3 = new Web3('http://localhost:8545');
 //const HDWalletProvider = require('@truffle/hdwallet-provider');
 
-// import erc20 from "@studydefi/money-legos/erc20";
+// import erc20 from "@studydefi/money-legos/erc20"; /////
+
 const erc20 = require ('@studydefi/money-legos/erc20');
 // const Erc20abi = require ('./node_modules/@studydefi/money-legos/erc20/abi/ERC20.json');
 
